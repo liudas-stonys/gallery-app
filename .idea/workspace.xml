@@ -1,12 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7d001cb-44b8-4498-9dff-547d8fe7b2f8" name="Default Changelist" comment="" />
+    <list default="true" id="b7d001cb-44b8-4498-9dff-547d8fe7b2f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_atteo_evo_inflector_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_core_3_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_webmvc_3_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_1_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-bl/src/main/java/lt/liudasstonys/galleryapp/assets/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-bl/src/main/java/lt/liudasstonys/galleryapp/assets/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-bl/src/main/java/lt/liudasstonys/galleryapp/assets/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-bl/src/main/java/lt/liudasstonys/galleryapp/assets/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-bl/src/main/java/lt/liudasstonys/galleryapp/assets/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-bl/src/main/java/lt/liudasstonys/galleryapp/assets/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-bl/src/main/java/lt/liudasstonys/galleryapp/assets/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-bl/src/main/java/lt/liudasstonys/galleryapp/assets/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-bl/src/main/java/lt/liudasstonys/galleryapp/assets/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-bl/src/main/java/lt/liudasstonys/galleryapp/assets/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-bl/src/main/java/lt/liudasstonys/galleryapp/repository/ImageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-bl/src/main/java/lt/liudasstonys/galleryapp/service/DbSeederService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-bl/src/main/java/lt/liudasstonys/galleryapp/service/DbService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-bl/src/main/java/lt/liudasstonys/galleryapp/service/DbServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-model/src/main/java/lt/liudasstonys/galleryapp/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-model/src/main/java/lt/liudasstonys/galleryapp/entity/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xxx/config/DbConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_rest_2_2_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-api/gallery-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-api/gallery-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-api/src/main/java/lt/liudasstonys/galleryapp/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-api/src/main/java/lt/liudasstonys/galleryapp/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-api/src/main/resources/application-api.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-api/src/main/resources/application-api.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-api/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-api/target/classes/application-api.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-api/target/classes/application-api.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-api/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-api/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-api/target/classes/lt/liudasstonys/galleryapp/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-api/target/classes/lt/liudasstonys/galleryapp/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-bl/gallery-bl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-bl/gallery-bl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-bl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-bl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-bl/src/main/resources/application-bl.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-bl/src/main/resources/application-bl.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-bl/target/classes/application-bl.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-bl/target/classes/application-bl.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-model/gallery-model.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-model/gallery-model.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-model/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-model/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-model/src/main/resources/application-model.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-model/src/main/resources/application-model.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-model/target/classes/application-model.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-model/target/classes/application-model.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -16,21 +106,34 @@
     </option>
   </component>
   <component name="ProjectId" id="1T9opPVqJMcYTaGpCIdLZnVxJdn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/gallery-bl/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gallery-bl/src/main/java/lt/liudasstonys/galleryapp" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\liudas.stonys\IdeaProjects\gallery-app\xxx" />
+      <recent name="C:\Users\liudas.stonys\IdeaProjects\gallery-app" />
+      <recent name="C:\Users\liudas.stonys\IdeaProjects\gallery-app\gallery-api\src\main\resources" />
+      <recent name="C:\Users\liudas.stonys\IdeaProjects\gallery-app\gallery-model\src\main\resources" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lt.liudasstonys.galleryapp" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\liudas.stonys\IdeaProjects\gallery-app\gallery-bl\src\main\java\lt\liudasstonys\galleryapp" />
       <recent name="C:\Users\liudas.stonys\IdeaProjects\gallery-app\gallery-bl\src\main\resources" />
       <recent name="C:\Users\liudas.stonys\IdeaProjects\gallery-app\gallery-api\src\main\resources" />
     </key>
@@ -77,11 +180,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572881854542</updated>
-      <workItem from="1572881858861" duration="6110000" />
+      <workItem from="1572881858861" duration="31651000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

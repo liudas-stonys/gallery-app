@@ -4,26 +4,32 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.PropertySource;
+import org.springframework.core.env.Environment;
+
+import javax.annotation.PostConstruct;
 
 @SpringBootApplication
-//@PropertySource(value = {"classpath:application.properties", "classpath:application-bl.properties"})
-@PropertySource("classpath:application-bl.properties")
-//@PropertySource("classpath:application-${spring.profiles.active}.properties")
 @Slf4j
+@PropertySource({
+        "classpath:application-model.properties",
+        "classpath:application-bl.properties",
+        "classpath:application-api.properties"
+})
 public class App {
+    private final Environment env;
+
+    public App(Environment env) {
+        this.env = env;
+    }
+
+    @PostConstruct
+    private void init() {
+        // Logs classpath
+        // log.warn("\n" + System.getProperty("java.class.path").replace(";", "\n"));
+        log.warn(env.getProperty("meow"));
+    }
 
     public static void main(String[] args) {
         SpringApplication.run(App.class, args);
-
-        log.error("Multimodule App has started!");
-
-        // Logs classpath
-//        log.warn("\n" + System.getProperty("java.class.path").replace(";","\n"));
-
-//        ClassLoader cl = ClassLoader.getSystemClassLoader();
-//        URL[] urls = ((URLClassLoader)cl).getURLs();
-//        for(URL url: urls){
-//            System.out.println(url.getFile());
-//        }
     }
 }
