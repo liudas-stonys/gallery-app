@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gallery-api:war">
+    <output-path>$PROJECT_DIR$/gallery-api/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>gallery-api</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="galleryapi-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="gallery-api:war exploded" />
+    </root>
+  </artifact>
+</component>

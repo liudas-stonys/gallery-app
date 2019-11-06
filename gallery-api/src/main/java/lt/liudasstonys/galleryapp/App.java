@@ -25,7 +25,8 @@ public class App {
     @PostConstruct
     private void init() {
         // Logs classpath
-        // log.warn("\n" + System.getProperty("java.class.path").replace(";", "\n"));
+        log.warn("\n" + System.getProperty("java.class.path").replace(";", "\n"));
+
         log.warn(env.getProperty("meow"));
     }
 
